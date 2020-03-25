@@ -1,6 +1,6 @@
-# audio_player
+# Audio Player
 
-A new Flutter project.
+Audio Player which utilizes method channels to invoke functionality written in native code via Dart (Java for Android, Objective-C for iOS).
 
 ## Getting Started
 
